@@ -11,6 +11,7 @@ body{
 .loginPage {
 	background-image: url(https://www.signalsaz.com/wp-content/uploads/2020/08/NAU-Northern-Arizona-University.jpg);
 	background-color: #002454;
+	color: red;
 }
 .forgotpass{
 	width: 400px;
