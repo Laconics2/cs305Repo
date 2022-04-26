@@ -1,3 +1,5 @@
+/* Tyler Morales (tam499) contribution to project for CS305 Module05 Assignment. */
+
 * {
   	box-sizing: border-box;
   	font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
@@ -36,7 +38,6 @@ body{
 	text-align: center;
 	color: #002454;
 	font-size: 24px;
-	
 }
 .login a {
 	text-align: center;
